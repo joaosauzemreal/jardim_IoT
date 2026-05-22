@@ -1,6 +1,6 @@
 # 🌿 Jardim IoT — Projeto Integrador
 
-Sistema de monitoramento e controle automatizado para jardins inteligentes desenvolvido com **ESP32** e **InfluxDB**. O projeto simula a coleta de dados de sensores ambientais, armazena as métricas em um banco de dados de séries temporais local e fornece uma interface de controle via Servidor Web.
+Sistema de monitoramento e controle automatizado para jardins inteligentes desenvolvido com **ESP32** e **InfluxDB**. O projeto coleta dados de sensores ambientais, armazena as métricas em um banco de dados de séries temporais local e fornece uma interface de controle via Servidor Web.
 
 ---
 
