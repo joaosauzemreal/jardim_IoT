@@ -8,7 +8,7 @@ const char* WIFI_PASSWORD = "joaoreal02";
 
 // 2. CONFIGURAÇÃO DO INFLUXDB DOCKER (IP CORRETO DO SEU PC)
 //#define INFLUXDB_URL "http://10.126.73.122:8086" 
-#define INFLUXDB_URL "http://172.21.11.88:8086"
+#define INFLUXDB_URL "http://192.168.18.6:8086"
 #define INFLUXDB_TOKEN "QNXw-_kW27ZTqvhDZLTyeyaMC3mfZnPgtrw5L9LjVdnTZhJtfJz9usmV_6JNOtDadQsIbV3qVS46nA25kUQ4ng==" 
 #define INFLUXDB_ORG "jardim_iot" 
 #define INFLUXDB_BUCKET "jardim_local"
